@@ -1,0 +1,19 @@
+{
+  "name": "string-replace-plugin",
+  "version": "1.0.0",
+  "description": "replace string webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephentian/string-replace-plugin.git"
+  },
+  "author": "stephentian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephentian/string-replace-plugin/issues"
+  },
+  "homepage": "https://github.com/stephentian/string-replace-plugin#readme"
+}
